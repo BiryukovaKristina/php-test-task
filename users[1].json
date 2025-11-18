@@ -1,0 +1,26 @@
+[
+    {
+        "username": null,
+        "email": null,
+        "phone": null,
+        "password": null
+    },
+    {
+        "username": "\u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430",
+        "email": "leyla@mail.ru",
+        "phone": "2345",
+        "password": "2345"
+    },
+    {
+        "username": "\u043b\u0435\u0439\u043b\u0430",
+        "email": "leyla@mail.ru",
+        "phone": "5678",
+        "password": "5678"
+    },
+    {
+        "username": "2345",
+        "phone": "2345",
+        "email": "leyla@mail.ru",
+        "password": "2345"
+    }
+]
